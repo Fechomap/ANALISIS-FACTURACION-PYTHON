@@ -1,0 +1,4183 @@
+=== REPORTE DE EXTRACCIÓN DE PDF ===
+
+Total de PDFs encontrados: 27
+PDFs procesados con éxito: 27
+PDFs inválidos: 0
+
+Registros duplicados encontrados: 378
+Registros extraídos totales: 5616
+
+=== ANÁLISIS DE DUPLICADOS ===
+
+Expediente duplicado: 19826630
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (2 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100273614
+   - Pedido: 5100734727
+
+Detalles de ocurrencias:
+   - Pedido: 5100273614
+     Precio: $1640.0
+   - Pedido: 5100734727
+     Precio: $1640.0
+
+Expediente duplicado: 20156655
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (2 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100495395
+   - Pedido: 5100734727
+
+Detalles de ocurrencias:
+   - Pedido: 5100495395
+     Precio: $245.0
+   - Pedido: 5100734727
+     Precio: $245.0
+
+Expediente duplicado: 20178874
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (2 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100523501
+   - Pedido: 5100734727
+
+Detalles de ocurrencias:
+   - Pedido: 5100523501
+     Precio: $245.0
+   - Pedido: 5100734727
+     Precio: $245.0
+
+Expediente duplicado: 19454211
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (3 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100175261
+   - Pedido: 5100591136
+   - Pedido: 5100734727
+
+Detalles de ocurrencias:
+   - Pedido: 5100175261
+     Precio: $490.0
+   - Pedido: 5100591136
+     Precio: $490.0
+   - Pedido: 5100734727
+     Precio: $490.0
+
+Expediente duplicado: 19709812
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (2 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100175266
+   - Pedido: 5100175267
+
+Detalles de ocurrencias:
+   - Pedido: 5100175266
+     Precio: $3339.29
+   - Pedido: 5100175267
+     Precio: $3339.29
+
+Expediente duplicado: 20129636
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Diferentes pedidos (2 pedidos distintos)
+Pedidos involucrados:
+   - Pedido: 5100486320
+   - Pedido: 5100734856
+
+Detalles de ocurrencias:
+   - Pedido: 5100486320
+     Precio: $245.0
+   - Pedido: 5100734856
+     Precio: $245.0
+
+Expediente duplicado: 20604713
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $265.0
+   - Pedido: 5100814270
+     Precio: $265.00
+
+Expediente duplicado: 20602271
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $530.0
+   - Pedido: 5100814270
+     Precio: $530.00
+
+Expediente duplicado: 20602161
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $680.0
+   - Pedido: 5100814270
+     Precio: $680.00
+
+Expediente duplicado: 20599884
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $918.0
+   - Pedido: 5100814270
+     Precio: $918.00
+
+Expediente duplicado: 20603391
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $1311.83
+   - Pedido: 5100814270
+     Precio: $1311.83
+
+Expediente duplicado: 20597349
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $2697.31
+   - Pedido: 5100814270
+     Precio: $2697.31
+
+Expediente duplicado: 20605491
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $1060.0
+   - Pedido: 5100814270
+     Precio: $1060.00
+
+Expediente duplicado: 20593996
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $1030.0
+   - Pedido: 5100814270
+     Precio: $1030.00
+
+Expediente duplicado: 20599705
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $1000.0
+   - Pedido: 5100814270
+     Precio: $1000.00
+
+Expediente duplicado: 20603576
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $918.0
+   - Pedido: 5100814270
+     Precio: $918.00
+
+Expediente duplicado: 20599863
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $2017.21
+   - Pedido: 5100814270
+     Precio: $2017.21
+
+Expediente duplicado: 20600075
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $1876.33
+   - Pedido: 5100814270
+     Precio: $1876.33
+
+Expediente duplicado: 20577805
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $265.0
+   - Pedido: 5100814270
+     Precio: $265.00
+
+Expediente duplicado: 20607675
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814270)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814270
+     Precio: $530.0
+   - Pedido: 5100814270
+     Precio: $530.00
+
+Expediente duplicado: 20620920
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826228)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826228
+     Precio: $248.0
+   - Pedido: 5100826228
+     Precio: $248.00
+
+Expediente duplicado: 20612306
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826228)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826228
+     Precio: $584.0
+   - Pedido: 5100826228
+     Precio: $584.00
+
+Expediente duplicado: 20566576
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $265.0
+   - Pedido: 5100795604
+     Precio: $265.00
+
+Expediente duplicado: 20562166
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2380.0
+   - Pedido: 5100795604
+     Precio: $2380.00
+
+Expediente duplicado: 20569874
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $530.0
+   - Pedido: 5100795604
+     Precio: $530.00
+
+Expediente duplicado: 20564456
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2247.31
+   - Pedido: 5100795604
+     Precio: $2247.31
+
+Expediente duplicado: 20567952
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $6445.59
+   - Pedido: 5100795604
+     Precio: $6445.59
+
+Expediente duplicado: 20566946
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $905.39
+   - Pedido: 5100795604
+     Precio: $905.39
+
+Expediente duplicado: 20523637
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2344.9
+   - Pedido: 5100795604
+     Precio: $2344.90
+
+Expediente duplicado: 20529179
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2633.66
+   - Pedido: 5100795604
+     Precio: $2633.66
+
+Expediente duplicado: 20534724
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $265.0
+   - Pedido: 5100795604
+     Precio: $265.00
+
+Expediente duplicado: 20561518
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $680.0
+   - Pedido: 5100795604
+     Precio: $680.00
+
+Expediente duplicado: 20561847
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $3671.47
+   - Pedido: 5100795604
+     Precio: $3671.47
+
+Expediente duplicado: 20535317
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $4080.0
+   - Pedido: 5100795604
+     Precio: $4080.00
+
+Expediente duplicado: 20564425
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $3547.31
+   - Pedido: 5100795604
+     Precio: $3547.31
+
+Expediente duplicado: 20571427
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $530.0
+   - Pedido: 5100795604
+     Precio: $530.00
+
+Expediente duplicado: 20576633
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $1876.33
+   - Pedido: 5100795604
+     Precio: $1876.33
+
+Expediente duplicado: 20533993
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2022.35
+   - Pedido: 5100795604
+     Precio: $2022.35
+
+Expediente duplicado: 20533989
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2272.35
+   - Pedido: 5100795604
+     Precio: $2272.35
+
+Expediente duplicado: 20559924
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2632.79
+   - Pedido: 5100795604
+     Precio: $2632.79
+
+Expediente duplicado: 20533850
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2857.43
+   - Pedido: 5100795604
+     Precio: $2857.43
+
+Expediente duplicado: 20563464
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795604)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795604
+     Precio: $2014.43
+   - Pedido: 5100795604
+     Precio: $2014.43
+
+Expediente duplicado: 20606272
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $530.0
+   - Pedido: 5100814272
+     Precio: $530.00
+
+Expediente duplicado: 20599733
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $3358.43
+   - Pedido: 5100814272
+     Precio: $3358.43
+
+Expediente duplicado: 20592066
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $3479.55
+   - Pedido: 5100814272
+     Precio: $3479.55
+
+Expediente duplicado: 20602215
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $1289.25
+   - Pedido: 5100814272
+     Precio: $1289.25
+
+Expediente duplicado: 20606068
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $1266.67
+   - Pedido: 5100814272
+     Precio: $1266.67
+
+Expediente duplicado: 20599390
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $918.0
+   - Pedido: 5100814272
+     Precio: $918.00
+
+Expediente duplicado: 20605634
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $1180.0
+   - Pedido: 5100814272
+     Precio: $1180.00
+
+Expediente duplicado: 20597589
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $3005.33
+   - Pedido: 5100814272
+     Precio: $3005.33
+
+Expediente duplicado: 20599251
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814272)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814272
+     Precio: $1058.0
+   - Pedido: 5100814272
+     Precio: $1058.00
+
+Expediente duplicado: 20534352
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $680.0
+   - Pedido: 5100784308
+     Precio: $680.00
+
+Expediente duplicado: 20555678
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $530.0
+   - Pedido: 5100784308
+     Precio: $530.00
+
+Expediente duplicado: 20546895
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $680.0
+   - Pedido: 5100784308
+     Precio: $680.00
+
+Expediente duplicado: 20556095
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $530.0
+   - Pedido: 5100784308
+     Precio: $530.00
+
+Expediente duplicado: 20558329
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $530.0
+   - Pedido: 5100784308
+     Precio: $530.00
+
+Expediente duplicado: 20556129
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $265.0
+   - Pedido: 5100784308
+     Precio: $265.00
+
+Expediente duplicado: 20556686
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784308)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784308
+     Precio: $1000.0
+   - Pedido: 5100784308
+     Precio: $1000.00
+
+Expediente duplicado: 20602436
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100814275)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100814275
+     Precio: $680.0
+   - Pedido: 5100814275
+     Precio: $680.00
+
+Expediente duplicado: 20542070
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $265.0
+   - Pedido: 5100769408
+     Precio: $265.00
+
+Expediente duplicado: 20544743
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $530.0
+   - Pedido: 5100769408
+     Precio: $530.00
+
+Expediente duplicado: 20544661
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $530.0
+   - Pedido: 5100769408
+     Precio: $530.00
+
+Expediente duplicado: 20534907
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1480.0
+   - Pedido: 5100769408
+     Precio: $1480.00
+
+Expediente duplicado: 20532253
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1480.0
+   - Pedido: 5100769408
+     Precio: $1480.00
+
+Expediente duplicado: 20540715
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1580.76
+   - Pedido: 5100769408
+     Precio: $1580.76
+
+Expediente duplicado: 20532175
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $2894.9
+   - Pedido: 5100769408
+     Precio: $2894.90
+
+Expediente duplicado: 20529398
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3500.0
+   - Pedido: 5100769408
+     Precio: $3500.00
+
+Expediente duplicado: 20537671
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1560.21
+   - Pedido: 5100769408
+     Precio: $1560.21
+
+Expediente duplicado: 20538939
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $918.0
+   - Pedido: 5100769408
+     Precio: $918.00
+
+Expediente duplicado: 20512628
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $2876.31
+   - Pedido: 5100769408
+     Precio: $2876.31
+
+Expediente duplicado: 20442632
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3118.23
+   - Pedido: 5100769408
+     Precio: $3118.23
+
+Expediente duplicado: 20410126
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $530.0
+   - Pedido: 5100769408
+     Precio: $530.00
+
+Expediente duplicado: 20360302
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1030.0
+   - Pedido: 5100769408
+     Precio: $1030.00
+
+Expediente duplicado: 20373221
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1040.0
+   - Pedido: 5100769408
+     Precio: $1040.00
+
+Expediente duplicado: 19699496
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 19673978
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1040.0
+   - Pedido: 5100769408
+     Precio: $1040.00
+
+Expediente duplicado: 19764770
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $245.0
+   - Pedido: 5100769408
+     Precio: $245.00
+
+Expediente duplicado: 19753826
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 19739042
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 19711388
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 19772820
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1074.47
+   - Pedido: 5100769408
+     Precio: $1074.47
+
+Expediente duplicado: 19779781
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 19880812
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $245.0
+   - Pedido: 5100769408
+     Precio: $245.00
+
+Expediente duplicado: 19873908
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $245.0
+   - Pedido: 5100769408
+     Precio: $245.00
+
+Expediente duplicado: 19891691
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 19886081
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 19885249
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 19881964
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1040.0
+   - Pedido: 5100769408
+     Precio: $1040.00
+
+Expediente duplicado: 19881790
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1340.0
+   - Pedido: 5100769408
+     Precio: $1340.00
+
+Expediente duplicado: 19863191
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3000.0
+   - Pedido: 5100769408
+     Precio: $3000.00
+
+Expediente duplicado: 19932790
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1018.01
+   - Pedido: 5100769408
+     Precio: $1018.01
+
+Expediente duplicado: 19982345
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $630.0
+   - Pedido: 5100769408
+     Precio: $630.00
+
+Expediente duplicado: 20014001
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 20009402
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1067.6
+   - Pedido: 5100769408
+     Precio: $1067.60
+
+Expediente duplicado: 19980815
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $1639.07
+   - Pedido: 5100769408
+     Precio: $1639.07
+
+Expediente duplicado: 20011666
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3633.99
+   - Pedido: 5100769408
+     Precio: $3633.99
+
+Expediente duplicado: 20048537
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $245.0
+   - Pedido: 5100769408
+     Precio: $245.00
+
+Expediente duplicado: 20055138
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $690.0
+   - Pedido: 5100769408
+     Precio: $690.00
+
+Expediente duplicado: 20108761
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 20085298
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $2261.58
+   - Pedido: 5100769408
+     Precio: $2261.58
+
+Expediente duplicado: 20073453
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3500.0
+   - Pedido: 5100769408
+     Precio: $3500.00
+
+Expediente duplicado: 20194226
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 20222190
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $490.0
+   - Pedido: 5100769408
+     Precio: $490.00
+
+Expediente duplicado: 20277735
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $530.0
+   - Pedido: 5100769408
+     Precio: $530.00
+
+Expediente duplicado: 20401026
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769408)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769408
+     Precio: $3752.71
+   - Pedido: 5100769408
+     Precio: $3752.71
+
+Expediente duplicado: 20556215
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787499)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787499
+     Precio: $1480.0
+   - Pedido: 5100787499
+     Precio: $1480.00
+
+Expediente duplicado: 20545089
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787499)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787499
+     Precio: $2274.73
+   - Pedido: 5100787499
+     Precio: $2274.73
+
+Expediente duplicado: 20544753
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787499)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787499
+     Precio: $2195.0
+   - Pedido: 5100787499
+     Precio: $2195.00
+
+Expediente duplicado: 20545088
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787499)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787499
+     Precio: $1674.73
+   - Pedido: 5100787499
+     Precio: $1674.73
+
+Expediente duplicado: 20559381
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787504)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787504
+     Precio: $265.0
+   - Pedido: 5100787504
+     Precio: $265.00
+
+Expediente duplicado: 20562138
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $1480.0
+   - Pedido: 5100787501
+     Precio: $1480.00
+
+Expediente duplicado: 20561832
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $2021.51
+   - Pedido: 5100787501
+     Precio: $2021.51
+
+Expediente duplicado: 20560210
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $1818.29
+   - Pedido: 5100787501
+     Precio: $1818.29
+
+Expediente duplicado: 20559824
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $3331.15
+   - Pedido: 5100787501
+     Precio: $3331.15
+
+Expediente duplicado: 20559928
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $2382.79
+   - Pedido: 5100787501
+     Precio: $2382.79
+
+Expediente duplicado: 20556115
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $3118.23
+   - Pedido: 5100787501
+     Precio: $3118.23
+
+Expediente duplicado: 20538912
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $3650.41
+   - Pedido: 5100787501
+     Precio: $3650.41
+
+Expediente duplicado: 20538145
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $3834.98
+   - Pedido: 5100787501
+     Precio: $3834.98
+
+Expediente duplicado: 20551646
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $1930.0
+   - Pedido: 5100787501
+     Precio: $1930.00
+
+Expediente duplicado: 20543812
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $2158.0
+   - Pedido: 5100787501
+     Precio: $2158.00
+
+Expediente duplicado: 20550594
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787501)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787501
+     Precio: $2113.43
+   - Pedido: 5100787501
+     Precio: $2113.43
+
+Expediente duplicado: 20580695
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $530.0
+   - Pedido: 5100802307
+     Precio: $530.00
+
+Expediente duplicado: 20581017
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $530.0
+   - Pedido: 5100802307
+     Precio: $530.00
+
+Expediente duplicado: 20581305
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $1030.0
+   - Pedido: 5100802307
+     Precio: $1030.00
+
+Expediente duplicado: 20575607
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $1480.0
+   - Pedido: 5100802307
+     Precio: $1480.00
+
+Expediente duplicado: 20586874
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $1695.69
+   - Pedido: 5100802307
+     Precio: $1695.69
+
+Expediente duplicado: 20574375
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $265.0
+   - Pedido: 5100802307
+     Precio: $265.00
+
+Expediente duplicado: 20579636
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $680.0
+   - Pedido: 5100802307
+     Precio: $680.00
+
+Expediente duplicado: 20578058
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802307)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802307
+     Precio: $1500.0
+   - Pedido: 5100802307
+     Precio: $1500.00
+
+Expediente duplicado: 20471918
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769414)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769414
+     Precio: $792.49
+   - Pedido: 5100769414
+     Precio: $792.49
+
+Expediente duplicado: 20278546
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769414)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769414
+     Precio: $1424.73
+   - Pedido: 5100769414
+     Precio: $1424.73
+
+Expediente duplicado: 20577288
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $918.0
+   - Pedido: 5100802309
+     Precio: $918.00
+
+Expediente duplicado: 20573671
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $1930.0
+   - Pedido: 5100802309
+     Precio: $1930.00
+
+Expediente duplicado: 20570278
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $2202.15
+   - Pedido: 5100802309
+     Precio: $2202.15
+
+Expediente duplicado: 20582105
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $2315.05
+   - Pedido: 5100802309
+     Precio: $2315.05
+
+Expediente duplicado: 20576247
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $1330.0
+   - Pedido: 5100802309
+     Precio: $1330.00
+
+Expediente duplicado: 20581892
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100802309)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100802309
+     Precio: $2773.98
+   - Pedido: 5100802309
+     Precio: $2773.98
+
+Expediente duplicado: 20574603
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $265.0
+   - Pedido: 5100808793
+     Precio: $265.00
+
+Expediente duplicado: 20594144
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $530.0
+   - Pedido: 5100808793
+     Precio: $530.00
+
+Expediente duplicado: 20590617
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $530.0
+   - Pedido: 5100808793
+     Precio: $530.00
+
+Expediente duplicado: 20585187
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $680.0
+   - Pedido: 5100808793
+     Precio: $680.00
+
+Expediente duplicado: 20584693
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $680.0
+   - Pedido: 5100808793
+     Precio: $680.00
+
+Expediente duplicado: 20591349
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $1030.0
+   - Pedido: 5100808793
+     Precio: $1030.00
+
+Expediente duplicado: 20588116
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $1424.73
+   - Pedido: 5100808793
+     Precio: $1424.73
+
+Expediente duplicado: 20588747
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $1512.0
+   - Pedido: 5100808793
+     Precio: $1512.00
+
+Expediente duplicado: 20587811
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $1921.49
+   - Pedido: 5100808793
+     Precio: $1921.49
+
+Expediente duplicado: 20580775
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2215.03
+   - Pedido: 5100808793
+     Precio: $2215.03
+
+Expediente duplicado: 20587545
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2430.0
+   - Pedido: 5100808793
+     Precio: $2430.00
+
+Expediente duplicado: 20592313
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $530.0
+   - Pedido: 5100808793
+     Precio: $530.00
+
+Expediente duplicado: 20591128
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $3477.19
+   - Pedido: 5100808793
+     Precio: $3477.19
+
+Expediente duplicado: 20588618
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $265.0
+   - Pedido: 5100808793
+     Precio: $265.00
+
+Expediente duplicado: 20581949
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $265.0
+   - Pedido: 5100808793
+     Precio: $265.00
+
+Expediente duplicado: 20589247
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $3198.4
+   - Pedido: 5100808793
+     Precio: $3198.40
+
+Expediente duplicado: 20588332
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2745.94
+   - Pedido: 5100808793
+     Precio: $2745.94
+
+Expediente duplicado: 20135595
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $3340.0
+   - Pedido: 5100808793
+     Precio: $3340.00
+
+Expediente duplicado: 20372183
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2782.8
+   - Pedido: 5100808793
+     Precio: $2782.80
+
+Expediente duplicado: 20557872
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $1000.0
+   - Pedido: 5100808793
+     Precio: $1000.00
+
+Expediente duplicado: 20566579
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2823.28
+   - Pedido: 5100808793
+     Precio: $2823.28
+
+Expediente duplicado: 20546902
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $680.0
+   - Pedido: 5100808793
+     Precio: $680.00
+
+Expediente duplicado: 20486081
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2373.09
+   - Pedido: 5100808793
+     Precio: $2373.09
+
+Expediente duplicado: 20269514
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2230.0
+   - Pedido: 5100808793
+     Precio: $2230.00
+
+Expediente duplicado: 20578270
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $3500.0
+   - Pedido: 5100808793
+     Precio: $3500.00
+
+Expediente duplicado: 20585615
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2317.49
+   - Pedido: 5100808793
+     Precio: $2317.49
+
+Expediente duplicado: 20598162
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $265.0
+   - Pedido: 5100808793
+     Precio: $265.00
+
+Expediente duplicado: 20597497
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $680.0
+   - Pedido: 5100808793
+     Precio: $680.00
+
+Expediente duplicado: 20595101
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $918.0
+   - Pedido: 5100808793
+     Precio: $918.00
+
+Expediente duplicado: 20594222
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2947.29
+   - Pedido: 5100808793
+     Precio: $2947.29
+
+Expediente duplicado: 20590590
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $2520.14
+   - Pedido: 5100808793
+     Precio: $2520.14
+
+Expediente duplicado: 20594981
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808793)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808793
+     Precio: $530.0
+   - Pedido: 5100808793
+     Precio: $530.00
+
+Expediente duplicado: 20536201
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2969.64
+   - Pedido: 5100769413
+     Precio: $2969.64
+
+Expediente duplicado: 20537420
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1266.67
+   - Pedido: 5100769413
+     Precio: $1266.67
+
+Expediente duplicado: 20533102
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1727.97
+   - Pedido: 5100769413
+     Precio: $1727.97
+
+Expediente duplicado: 20529430
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1480.0
+   - Pedido: 5100769413
+     Precio: $1480.00
+
+Expediente duplicado: 20534984
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2202.15
+   - Pedido: 5100769413
+     Precio: $2202.15
+
+Expediente duplicado: 20539281
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2271.51
+   - Pedido: 5100769413
+     Precio: $2271.51
+
+Expediente duplicado: 20529435
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1580.0
+   - Pedido: 5100769413
+     Precio: $1580.00
+
+Expediente duplicado: 20526270
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2608.59
+   - Pedido: 5100769413
+     Precio: $2608.59
+
+Expediente duplicado: 20541640
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1330.0
+   - Pedido: 5100769413
+     Precio: $1330.00
+
+Expediente duplicado: 20533685
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $3376.08
+   - Pedido: 5100769413
+     Precio: $3376.08
+
+Expediente duplicado: 20529056
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $3463.13
+   - Pedido: 5100769413
+     Precio: $3463.13
+
+Expediente duplicado: 20490920
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $265.0
+   - Pedido: 5100769413
+     Precio: $265.00
+
+Expediente duplicado: 20409996
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1463.93
+   - Pedido: 5100769413
+     Precio: $1463.93
+
+Expediente duplicado: 20106136
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $490.0
+   - Pedido: 5100769413
+     Precio: $490.00
+
+Expediente duplicado: 20050684
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2540.0
+   - Pedido: 5100769413
+     Precio: $2540.00
+
+Expediente duplicado: 20365007
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $780.0
+   - Pedido: 5100769413
+     Precio: $780.00
+
+Expediente duplicado: 19740476
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1943.51
+   - Pedido: 5100769413
+     Precio: $1943.51
+
+Expediente duplicado: 19795800
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2123.59
+   - Pedido: 5100769413
+     Precio: $2123.59
+
+Expediente duplicado: 19878605
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $490.0
+   - Pedido: 5100769413
+     Precio: $490.00
+
+Expediente duplicado: 19857908
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $490.0
+   - Pedido: 5100769413
+     Precio: $490.00
+
+Expediente duplicado: 19974533
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1300.31
+   - Pedido: 5100769413
+     Precio: $1300.31
+
+Expediente duplicado: 19983512
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1055.65
+   - Pedido: 5100769413
+     Precio: $1055.65
+
+Expediente duplicado: 19996416
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1959.73
+   - Pedido: 5100769413
+     Precio: $1959.73
+
+Expediente duplicado: 20108843
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $490.0
+   - Pedido: 5100769413
+     Precio: $490.00
+
+Expediente duplicado: 20119409
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1530.37
+   - Pedido: 5100769413
+     Precio: $1530.37
+
+Expediente duplicado: 20089943
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1375.59
+   - Pedido: 5100769413
+     Precio: $1375.59
+
+Expediente duplicado: 20073160
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2304.47
+   - Pedido: 5100769413
+     Precio: $2304.47
+
+Expediente duplicado: 20081128
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2461.07
+   - Pedido: 5100769413
+     Precio: $2461.07
+
+Expediente duplicado: 20256551
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $265.0
+   - Pedido: 5100769413
+     Precio: $265.00
+
+Expediente duplicado: 20214986
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1469.69
+   - Pedido: 5100769413
+     Precio: $1469.69
+
+Expediente duplicado: 20242049
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $630.0
+   - Pedido: 5100769413
+     Precio: $630.00
+
+Expediente duplicado: 20226396
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $1093.29
+   - Pedido: 5100769413
+     Precio: $1093.29
+
+Expediente duplicado: 20208466
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2113.79
+   - Pedido: 5100769413
+     Precio: $2113.79
+
+Expediente duplicado: 20212875
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2600.53
+   - Pedido: 5100769413
+     Precio: $2600.53
+
+Expediente duplicado: 20208711
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $4713.3
+   - Pedido: 5100769413
+     Precio: $4713.30
+
+Expediente duplicado: 20282798
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $680.0
+   - Pedido: 5100769413
+     Precio: $680.00
+
+Expediente duplicado: 20544838
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2136.03
+   - Pedido: 5100769413
+     Precio: $2136.03
+
+Expediente duplicado: 20544835
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2218.27
+   - Pedido: 5100769413
+     Precio: $2218.27
+
+Expediente duplicado: 20544585
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $2179.57
+   - Pedido: 5100769413
+     Precio: $2179.57
+
+Expediente duplicado: 20544614
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769413)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769413
+     Precio: $3416.23
+   - Pedido: 5100769413
+     Precio: $3416.23
+
+Expediente duplicado: 20584810
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808796)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808796
+     Precio: $1930.0
+   - Pedido: 5100808796
+     Precio: $1930.00
+
+Expediente duplicado: 20483595
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808796)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808796
+     Precio: $795.0
+   - Pedido: 5100808796
+     Precio: $795.00
+
+Expediente duplicado: 20561251
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $530.0
+   - Pedido: 5100787497
+     Precio: $530.00
+
+Expediente duplicado: 20560955
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $1424.73
+   - Pedido: 5100787497
+     Precio: $1424.73
+
+Expediente duplicado: 20560576
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $530.0
+   - Pedido: 5100787497
+     Precio: $530.00
+
+Expediente duplicado: 20559376
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $3259.73
+   - Pedido: 5100787497
+     Precio: $3259.73
+
+Expediente duplicado: 20558891
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $2227.95
+   - Pedido: 5100787497
+     Precio: $2227.95
+
+Expediente duplicado: 20552397
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $3320.17
+   - Pedido: 5100787497
+     Precio: $3320.17
+
+Expediente duplicado: 20550360
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $3500.0
+   - Pedido: 5100787497
+     Precio: $3500.00
+
+Expediente duplicado: 20555087
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100787497)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100787497
+     Precio: $2435.98
+   - Pedido: 5100787497
+     Precio: $2435.98
+
+Expediente duplicado: 20541623
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769410)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769410
+     Precio: $1380.0
+   - Pedido: 5100769410
+     Precio: $1380.00
+
+Expediente duplicado: 20544578
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769410)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769410
+     Precio: $1380.0
+   - Pedido: 5100769410
+     Precio: $1380.00
+
+Expediente duplicado: 20207936
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100769410)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100769410
+     Precio: $2398.51
+   - Pedido: 5100769410
+     Precio: $2398.51
+
+Expediente duplicado: 20609652
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826234)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826234
+     Precio: $530.0
+   - Pedido: 5100826234
+     Precio: $530.00
+
+Expediente duplicado: 20611924
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826234)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826234
+     Precio: $265.0
+   - Pedido: 5100826234
+     Precio: $265.00
+
+Expediente duplicado: 20579071
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $265.0
+   - Pedido: 5100808902
+     Precio: $265.00
+
+Expediente duplicado: 20595276
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $1000.0
+   - Pedido: 5100808902
+     Precio: $1000.00
+
+Expediente duplicado: 20592126
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $1030.0
+   - Pedido: 5100808902
+     Precio: $1030.00
+
+Expediente duplicado: 20593823
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $1595.0
+   - Pedido: 5100808902
+     Precio: $1595.00
+
+Expediente duplicado: 20594967
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $2406.96
+   - Pedido: 5100808902
+     Precio: $2406.96
+
+Expediente duplicado: 20594541
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $3773.24
+   - Pedido: 5100808902
+     Precio: $3773.24
+
+Expediente duplicado: 20596571
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $2829.43
+   - Pedido: 5100808902
+     Precio: $2829.43
+
+Expediente duplicado: 20539287
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $2021.51
+   - Pedido: 5100808902
+     Precio: $2021.51
+
+Expediente duplicado: 20494338
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808902)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808902
+     Precio: $3027.91
+   - Pedido: 5100808902
+     Precio: $3027.91
+
+Expediente duplicado: 19785711
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784310)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784310
+     Precio: $850.0
+   - Pedido: 5100784310
+     Precio: $850.00
+
+Expediente duplicado: 20551415
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784310)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784310
+     Precio: $265.0
+   - Pedido: 5100784310
+     Precio: $265.00
+
+Expediente duplicado: 20554340
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784310)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784310
+     Precio: $530.0
+   - Pedido: 5100784310
+     Precio: $530.00
+
+Expediente duplicado: 20496159
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784310)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784310
+     Precio: $3908.56
+   - Pedido: 5100784310
+     Precio: $3908.56
+
+Expediente duplicado: 20590801
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $265.0
+   - Pedido: 5100808900
+     Precio: $265.00
+
+Expediente duplicado: 20592405
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $530.0
+   - Pedido: 5100808900
+     Precio: $530.00
+
+Expediente duplicado: 20590313
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $530.0
+   - Pedido: 5100808900
+     Precio: $530.00
+
+Expediente duplicado: 20589545
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $530.0
+   - Pedido: 5100808900
+     Precio: $530.00
+
+Expediente duplicado: 20591365
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $680.0
+   - Pedido: 5100808900
+     Precio: $680.00
+
+Expediente duplicado: 20590926
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1108.61
+   - Pedido: 5100808900
+     Precio: $1108.61
+
+Expediente duplicado: 20572594
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1131.19
+   - Pedido: 5100808900
+     Precio: $1131.19
+
+Expediente duplicado: 20589552
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1742.47
+   - Pedido: 5100808900
+     Precio: $1742.47
+
+Expediente duplicado: 20584136
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1998.93
+   - Pedido: 5100808900
+     Precio: $1998.93
+
+Expediente duplicado: 20586251
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2136.03
+   - Pedido: 5100808900
+     Precio: $2136.03
+
+Expediente duplicado: 20586403
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2292.47
+   - Pedido: 5100808900
+     Precio: $2292.47
+
+Expediente duplicado: 20581911
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2518.27
+   - Pedido: 5100808900
+     Precio: $2518.27
+
+Expediente duplicado: 20588560
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1989.23
+   - Pedido: 5100808900
+     Precio: $1989.23
+
+Expediente duplicado: 20582098
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2857.63
+   - Pedido: 5100808900
+     Precio: $2857.63
+
+Expediente duplicado: 20585619
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3842.51
+   - Pedido: 5100808900
+     Precio: $3842.51
+
+Expediente duplicado: 20590481
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $4705.33
+   - Pedido: 5100808900
+     Precio: $4705.33
+
+Expediente duplicado: 20573088
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $5288.53
+   - Pedido: 5100808900
+     Precio: $5288.53
+
+Expediente duplicado: 20581479
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1763.43
+   - Pedido: 5100808900
+     Precio: $1763.43
+
+Expediente duplicado: 20576420
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $265.0
+   - Pedido: 5100808900
+     Precio: $265.00
+
+Expediente duplicado: 20580036
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1523.13
+   - Pedido: 5100808900
+     Precio: $1523.13
+
+Expediente duplicado: 20579552
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1480.0
+   - Pedido: 5100808900
+     Precio: $1480.00
+
+Expediente duplicado: 20589534
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2835.72
+   - Pedido: 5100808900
+     Precio: $2835.72
+
+Expediente duplicado: 20585005
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2938.7
+   - Pedido: 5100808900
+     Precio: $2938.70
+
+Expediente duplicado: 20581490
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $4885.65
+   - Pedido: 5100808900
+     Precio: $4885.65
+
+Expediente duplicado: 20480754
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3522.57
+   - Pedido: 5100808900
+     Precio: $3522.57
+
+Expediente duplicado: 20494734
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2579.89
+   - Pedido: 5100808900
+     Precio: $2579.89
+
+Expediente duplicado: 20518192
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3310.17
+   - Pedido: 5100808900
+     Precio: $3310.17
+
+Expediente duplicado: 20568076
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1830.0
+   - Pedido: 5100808900
+     Precio: $1830.00
+
+Expediente duplicado: 20556937
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1530.0
+   - Pedido: 5100808900
+     Precio: $1530.00
+
+Expediente duplicado: 20553246
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3080.0
+   - Pedido: 5100808900
+     Precio: $3080.00
+
+Expediente duplicado: 20549860
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1330.0
+   - Pedido: 5100808900
+     Precio: $1330.00
+
+Expediente duplicado: 20518392
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3204.23
+   - Pedido: 5100808900
+     Precio: $3204.23
+
+Expediente duplicado: 20514290
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2746.35
+   - Pedido: 5100808900
+     Precio: $2746.35
+
+Expediente duplicado: 20512505
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3919.66
+   - Pedido: 5100808900
+     Precio: $3919.66
+
+Expediente duplicado: 20505202
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $4428.09
+   - Pedido: 5100808900
+     Precio: $4428.09
+
+Expediente duplicado: 20496946
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3039.23
+   - Pedido: 5100808900
+     Precio: $3039.23
+
+Expediente duplicado: 20491120
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2563.43
+   - Pedido: 5100808900
+     Precio: $2563.43
+
+Expediente duplicado: 20490735
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3618.23
+   - Pedido: 5100808900
+     Precio: $3618.23
+
+Expediente duplicado: 20483486
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1180.0
+   - Pedido: 5100808900
+     Precio: $1180.00
+
+Expediente duplicado: 20452984
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $5000.0
+   - Pedido: 5100808900
+     Precio: $5000.00
+
+Expediente duplicado: 20464439
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3030.0
+   - Pedido: 5100808900
+     Precio: $3030.00
+
+Expediente duplicado: 20440941
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3530.0
+   - Pedido: 5100808900
+     Precio: $3530.00
+
+Expediente duplicado: 20421344
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3022.05
+   - Pedido: 5100808900
+     Precio: $3022.05
+
+Expediente duplicado: 20404283
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1131.19
+   - Pedido: 5100808900
+     Precio: $1131.19
+
+Expediente duplicado: 20283028
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $4607.4
+   - Pedido: 5100808900
+     Precio: $4607.40
+
+Expediente duplicado: 20136371
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $3340.0
+   - Pedido: 5100808900
+     Precio: $3340.00
+
+Expediente duplicado: 20586352
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $2802.17
+   - Pedido: 5100808900
+     Precio: $2802.17
+
+Expediente duplicado: 20580035
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1668.0
+   - Pedido: 5100808900
+     Precio: $1668.00
+
+Expediente duplicado: 20589597
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $1113.77
+   - Pedido: 5100808900
+     Precio: $1113.77
+
+Expediente duplicado: 20592326
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808900)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808900
+     Precio: $265.0
+   - Pedido: 5100808900
+     Precio: $265.00
+
+Expediente duplicado: 20532846
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100784311)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100784311
+     Precio: $2680.0
+   - Pedido: 5100784311
+     Precio: $2680.00
+
+Expediente duplicado: 20620313
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $530.0
+   - Pedido: 5100826232
+     Precio: $530.00
+
+Expediente duplicado: 20612012
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $530.0
+   - Pedido: 5100826232
+     Precio: $530.00
+
+Expediente duplicado: 20612243
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1330.0
+   - Pedido: 5100826232
+     Precio: $1330.00
+
+Expediente duplicado: 20609669
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1886.03
+   - Pedido: 5100826232
+     Precio: $1886.03
+
+Expediente duplicado: 20602761
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $2269.89
+   - Pedido: 5100826232
+     Precio: $2269.89
+
+Expediente duplicado: 20602713
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $2542.47
+   - Pedido: 5100826232
+     Precio: $2542.47
+
+Expediente duplicado: 20619420
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $530.0
+   - Pedido: 5100826232
+     Precio: $530.00
+
+Expediente duplicado: 20606748
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4194.93
+   - Pedido: 5100826232
+     Precio: $4194.93
+
+Expediente duplicado: 20606167
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3911.75
+   - Pedido: 5100826232
+     Precio: $3911.75
+
+Expediente duplicado: 20612528
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3900.0
+   - Pedido: 5100826232
+     Precio: $3900.00
+
+Expediente duplicado: 20608937
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $2988.15
+   - Pedido: 5100826232
+     Precio: $2988.15
+
+Expediente duplicado: 20615408
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $680.0
+   - Pedido: 5100826232
+     Precio: $680.00
+
+Expediente duplicado: 20615403
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $803.78
+   - Pedido: 5100826232
+     Precio: $803.78
+
+Expediente duplicado: 20615415
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $680.0
+   - Pedido: 5100826232
+     Precio: $680.00
+
+Expediente duplicado: 20614301
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4885.65
+   - Pedido: 5100826232
+     Precio: $4885.65
+
+Expediente duplicado: 20595198
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4885.65
+   - Pedido: 5100826232
+     Precio: $4885.65
+
+Expediente duplicado: 20579443
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3018.0
+   - Pedido: 5100826232
+     Precio: $3018.00
+
+Expediente duplicado: 20329314
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3263.18
+   - Pedido: 5100826232
+     Precio: $3263.18
+
+Expediente duplicado: 20314202
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4274.34
+   - Pedido: 5100826232
+     Precio: $4274.34
+
+Expediente duplicado: 20475258
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3265.03
+   - Pedido: 5100826232
+     Precio: $3265.03
+
+Expediente duplicado: 20489959
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1480.0
+   - Pedido: 5100826232
+     Precio: $1480.00
+
+Expediente duplicado: 20505457
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $3366.71
+   - Pedido: 5100826232
+     Precio: $3366.71
+
+Expediente duplicado: 19997476
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1549.19
+   - Pedido: 5100826232
+     Precio: $1549.19
+
+Expediente duplicado: 20138819
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1285.71
+   - Pedido: 5100826232
+     Precio: $1285.71
+
+Expediente duplicado: 20142042
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $850.0
+   - Pedido: 5100826232
+     Precio: $850.00
+
+Expediente duplicado: 20624403
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $530.0
+   - Pedido: 5100826232
+     Precio: $530.00
+
+Expediente duplicado: 20621837
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4525.6
+   - Pedido: 5100826232
+     Precio: $4525.60
+
+Expediente duplicado: 20614970
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $1730.0
+   - Pedido: 5100826232
+     Precio: $1730.00
+
+Expediente duplicado: 20617580
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826232)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826232
+     Precio: $4421.8
+   - Pedido: 5100826232
+     Precio: $4421.80
+
+Expediente duplicado: 20545919
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100808905)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100808905
+     Precio: $1330.0
+   - Pedido: 5100808905
+     Precio: $1330.00
+
+Expediente duplicado: 20568869
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $680.0
+   - Pedido: 5100795597
+     Precio: $680.00
+
+Expediente duplicado: 20567647
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $265.0
+   - Pedido: 5100795597
+     Precio: $265.00
+
+Expediente duplicado: 20538956
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $3127.93
+   - Pedido: 5100795597
+     Precio: $3127.93
+
+Expediente duplicado: 20526644
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $3118.23
+   - Pedido: 5100795597
+     Precio: $3118.23
+
+Expediente duplicado: 20535628
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $1630.0
+   - Pedido: 5100795597
+     Precio: $1630.00
+
+Expediente duplicado: 20573064
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $530.0
+   - Pedido: 5100795597
+     Precio: $530.00
+
+Expediente duplicado: 20561915
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $680.0
+   - Pedido: 5100795597
+     Precio: $680.00
+
+Expediente duplicado: 20576333
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $1876.33
+   - Pedido: 5100795597
+     Precio: $1876.33
+
+Expediente duplicado: 20572611
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $1630.0
+   - Pedido: 5100795597
+     Precio: $1630.00
+
+Expediente duplicado: 20573069
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $530.0
+   - Pedido: 5100795597
+     Precio: $530.00
+
+Expediente duplicado: 20580976
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $265.0
+   - Pedido: 5100795597
+     Precio: $265.00
+
+Expediente duplicado: 20562213
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $2042.47
+   - Pedido: 5100795597
+     Precio: $2042.47
+
+Expediente duplicado: 20536298
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $3500.0
+   - Pedido: 5100795597
+     Precio: $3500.00
+
+Expediente duplicado: 20581658
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $3500.0
+   - Pedido: 5100795597
+     Precio: $3500.00
+
+Expediente duplicado: 20578440
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $3476.75
+   - Pedido: 5100795597
+     Precio: $3476.75
+
+Expediente duplicado: 20564477
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $1000.0
+   - Pedido: 5100795597
+     Precio: $1000.00
+
+Expediente duplicado: 20578472
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $530.0
+   - Pedido: 5100795597
+     Precio: $530.00
+
+Expediente duplicado: 20571684
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100795597)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100795597
+     Precio: $265.0
+   - Pedido: 5100795597
+     Precio: $265.00
+
+Expediente duplicado: 20613870
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $265.0
+   - Pedido: 5100826230
+     Precio: $265.00
+
+Expediente duplicado: 20620117
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20616306
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20615690
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20614646
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20613556
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20612774
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20611343
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20604403
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20614346
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20611183
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20608108
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20607564
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20613403
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1030.0
+   - Pedido: 5100826230
+     Precio: $1030.00
+
+Expediente duplicado: 20604842
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1153.77
+   - Pedido: 5100826230
+     Precio: $1153.77
+
+Expediente duplicado: 20611718
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1180.0
+   - Pedido: 5100826230
+     Precio: $1180.00
+
+Expediente duplicado: 20608453
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $2933.57
+   - Pedido: 5100826230
+     Precio: $2933.57
+
+Expediente duplicado: 20617478
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $3500.0
+   - Pedido: 5100826230
+     Precio: $3500.00
+
+Expediente duplicado: 20603575
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20608501
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20614002
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20614780
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1086.03
+   - Pedido: 5100826230
+     Precio: $1086.03
+
+Expediente duplicado: 20606875
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $3344.03
+   - Pedido: 5100826230
+     Precio: $3344.03
+
+Expediente duplicado: 20606816
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $7057.05
+   - Pedido: 5100826230
+     Precio: $7057.05
+
+Expediente duplicado: 20598694
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $905.39
+   - Pedido: 5100826230
+     Precio: $905.39
+
+Expediente duplicado: 20582032
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $3431.17
+   - Pedido: 5100826230
+     Precio: $3431.17
+
+Expediente duplicado: 20621440
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20309809
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $3054.49
+   - Pedido: 5100826230
+     Precio: $3054.49
+
+Expediente duplicado: 19919865
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1432.05
+   - Pedido: 5100826230
+     Precio: $1432.05
+
+Expediente duplicado: 20272365
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1876.33
+   - Pedido: 5100826230
+     Precio: $1876.33
+
+Expediente duplicado: 20611645
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1180.0
+   - Pedido: 5100826230
+     Precio: $1180.00
+
+Expediente duplicado: 20610563
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1930.0
+   - Pedido: 5100826230
+     Precio: $1930.00
+
+Expediente duplicado: 20609194
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $3500.0
+   - Pedido: 5100826230
+     Precio: $3500.00
+
+Expediente duplicado: 20614502
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $1492.47
+   - Pedido: 5100826230
+     Precio: $1492.47
+
+Expediente duplicado: 20610491
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20622360
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $680.0
+   - Pedido: 5100826230
+     Precio: $680.00
+
+Expediente duplicado: 20619874
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20626907
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $530.0
+   - Pedido: 5100826230
+     Precio: $530.00
+
+Expediente duplicado: 20620445
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $265.0
+   - Pedido: 5100826230
+     Precio: $265.00
+
+Expediente duplicado: 20621927
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $918.0
+   - Pedido: 5100826230
+     Precio: $918.00
+
+Expediente duplicado: 20615106
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $4571.49
+   - Pedido: 5100826230
+     Precio: $4571.49
+
+Expediente duplicado: 20622364
+Descripción: Arrastre/M (SER)
+TIPO DE DUPLICADO: Mismo pedido (5100826230)
+Número de ocurrencias: 2
+
+Detalles de ocurrencias:
+   - Pedido: 5100826230
+     Precio: $5863.44
+   - Pedido: 5100826230
+     Precio: $5863.44
