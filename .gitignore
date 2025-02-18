@@ -1,4 +1,4 @@
-# Crear/Actualizar .gitignore
+# Actualizar .gitignore
 cat > .gitignore << EOL
 # Dependencies
 node_modules/
@@ -32,8 +32,3 @@ output/*
 .DS_Store
 Thumbs.db
 EOL
-
-# Agregar y commitear el .gitignore actualizado
-git add .gitignore
-git commit -m "fix: Actualizado .gitignore para excluir PDFs"
-git push origin main
