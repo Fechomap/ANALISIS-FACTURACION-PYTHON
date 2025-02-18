@@ -31,4 +31,4 @@ output/*
 # System
 .DS_Store
 Thumbs.db
-EOL
+EOL.DS_Store
