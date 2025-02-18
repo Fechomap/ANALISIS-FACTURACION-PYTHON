@@ -1,0 +1,39 @@
+# Crear/Actualizar .gitignore
+cat > .gitignore << EOL
+# Dependencies
+node_modules/
+venv/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# PDF directories
+PDF-FACTURAS/*
+PDF-PEDIDOS/*
+!PDF-FACTURAS/.gitkeep
+!PDF-PEDIDOS/.gitkeep
+
+# Output
+output/*
+!output/.gitkeep
+
+# System
+.DS_Store
+Thumbs.db
+EOL
+
+# Agregar y commitear el .gitignore actualizado
+git add .gitignore
+git commit -m "fix: Actualizado .gitignore para excluir PDFs"
+git push origin main
