@@ -372,13 +372,16 @@ def extract_data(input_folder, output_json, output_excel, report_txt):
 
     # Filtrar items que realmente son duplicados
     duplicate_items = [item for item in duplicate_items 
-                      if len(item['ocurrencias']) > 1]
+                    if len(item['ocurrencias']) > 1]
 
-    # Guardar JSON y Excel como antes...
+    # Aplicar la conversión antes de guardar
+    all_data_safe = convert_datetime_to_str(all_data)
+
+    # 1. PRIMERO guardar JSON (asegurando que no hay objetos datetime)
     with open(output_json_path, 'w', encoding='utf-8') as json_file:
-        json.dump(all_data, json_file, ensure_ascii=False, indent=4)
+        json.dump(all_data_safe, json_file, ensure_ascii=False, indent=4)
 
-    # Guardar Excel acumulado solo con datos no duplicados
+    # 2. DESPUÉS crear el DataFrame y procesar datos numéricos
     df = pd.DataFrame(all_data)
     numeric_columns = ['Precio por unidad', 'Subtotal', 'Impuesto']
     for col in numeric_columns:
@@ -386,6 +389,16 @@ def extract_data(input_folder, output_json, output_excel, report_txt):
             df[col] = pd.to_numeric(df[col], errors='coerce')
     if "Numero de Pedido" in df.columns:
         df["Numero de Pedido"] = pd.to_numeric(df["Numero de Pedido"], errors='coerce')
+
+    # 3. Convertir columna 'Fecha' a datetime para que Excel la reconozca correctamente
+    if 'Fecha' in df.columns:
+        # Crear una máscara para identificar fechas válidas en formato DD/MM/YYYY
+        fecha_valida = df['Fecha'].apply(lambda x: isinstance(x, str) and x != "Sin fecha" and "/" in x)
+        
+        # Convertir solo las fechas válidas a formato datetime
+        df.loc[fecha_valida, 'Fecha'] = pd.to_datetime(df.loc[fecha_valida, 'Fecha'], format="%d/%m/%Y", errors='coerce')
+
+    # 4. Guardar el Excel con las fechas ya convertidas
     df.to_excel(output_excel_path, index=False)
 
     # Análisis de duplicados para el reporte
@@ -426,6 +439,32 @@ def extract_data(input_folder, output_json, output_excel, report_txt):
 
     print(f"Extracción completada. Se encontraron {len(all_data)} registros en total.")
     print(f"Reporte guardado en: {report_file_path}")
+
+def convert_datetime_to_str(data):
+    """
+    Convierte cualquier objeto datetime a string en formato DD/MM/YYYY
+    para asegurar la serialización correcta en JSON
+    """
+    import datetime as dt
+    import pandas as pd
+    
+    # Crea una copia de los datos para no modificar el original
+    processed_data = []
+    
+    for record in data:
+        # Crear una copia del registro para no modificar el original
+        new_record = {}
+        for key, value in record.items():
+            # Detectar si es un objeto datetime (pandas Timestamp o datetime de Python)
+            if isinstance(value, (dt.datetime, pd.Timestamp)):
+                # Convertir a string en formato DD/MM/YYYY
+                new_record[key] = value.strftime('%d/%m/%Y')
+            else:
+                # Mantener el valor original
+                new_record[key] = value
+        processed_data.append(new_record)
+        
+    return processed_data
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
