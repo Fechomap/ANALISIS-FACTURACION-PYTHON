@@ -1,5 +1,3 @@
-# Actualizar .gitignore
-cat > .gitignore << EOL
 # Dependencies
 node_modules/
 venv/
@@ -24,11 +22,19 @@ PDF-PEDIDOS/*
 !PDF-FACTURAS/.gitkeep
 !PDF-PEDIDOS/.gitkeep
 
-# Output
+# Output data
 output/*
 !output/.gitkeep
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+*.json
+*.txt
+**/log*.txt
+**/reporte*.txt
 
 # System
 .DS_Store
 Thumbs.db
-EOL.DS_Store
