@@ -443,24 +443,24 @@ def extract_data(input_folder, output_json, output_excel, report_txt):
 def convert_datetime_to_str(data):
     """
     Convierte cualquier objeto datetime a string en formato DD/MM/YYYY
-    para asegurar la serialización correcta en JSON
+    manejando valores NaT y None
     """
     import datetime as dt
     import pandas as pd
     
-    # Crea una copia de los datos para no modificar el original
     processed_data = []
     
     for record in data:
-        # Crear una copia del registro para no modificar el original
         new_record = {}
         for key, value in record.items():
-            # Detectar si es un objeto datetime (pandas Timestamp o datetime de Python)
-            if isinstance(value, (dt.datetime, pd.Timestamp)):
-                # Convertir a string en formato DD/MM/YYYY
-                new_record[key] = value.strftime('%d/%m/%Y')
+            if pd.isna(value):  # Maneja NaT, NaN, y None
+                new_record[key] = ''
+            elif isinstance(value, (dt.datetime, pd.Timestamp)):
+                try:
+                    new_record[key] = value.strftime('%d/%m/%Y')
+                except:
+                    new_record[key] = ''
             else:
-                # Mantener el valor original
                 new_record[key] = value
         processed_data.append(new_record)
         
