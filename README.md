@@ -48,6 +48,7 @@ ANALISIS-FACTURACION/
 ├── output/         → Archivos de salida (Excel y logs)
 ├── scripts/        → Scripts Python
 │   ├── detect.py   → Procesamiento de facturas
+│   ├── detect2.py  → Procesamiento de nuevas facturas (formato mejorado)
 │   └── extract.py  → Procesamiento de pedidos
 ├── app.js          → Interfaz Node.js (recomendado)
 ├── package.json    → Dependencias de Node.js
@@ -86,6 +87,16 @@ python scripts/detect.py PDF-FACTURAS output/data.xlsx --log_file output/log_fac
 - Detecta números de pedido (10 dígitos)
 - Actualiza estados en Excel
 - Genera log en `output/log_facturas.txt`
+
+#### Procesamiento de Facturas (Nuevo Formato)
+```bash
+python scripts/detect2.py PDF-FACTURAS output/data.xlsx --log_file output/log_facturas_nuevas.txt
+```
+- Procesa facturas con nuevo formato de `PDF-FACTURAS/`
+- Detecta números de pedido y datos adicionales
+- Incluye fecha de emisión en la información
+- Actualiza estados en Excel con información detallada
+- Genera log en `output/log_facturas_nuevas.txt`
 
 ## Flujo de Trabajo Típico
 
