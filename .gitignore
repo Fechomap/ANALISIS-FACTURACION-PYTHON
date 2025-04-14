@@ -2,6 +2,9 @@
 node_modules/
 venv/
 
+# npm
+package-lock.json
+
 # Python
 *.pyc
 __pycache__/
